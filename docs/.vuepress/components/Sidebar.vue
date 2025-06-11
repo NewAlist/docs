@@ -2,18 +2,17 @@
   <Sidebar>
     <template #top>
       <div class="ss">
+      <!-- 
         <div class="sidebar-ad-placeholder">
-          <!-- 
-          <div class="sidebar-ad-placeholder">
-            广告 1
-          </a>
+          广告 1
         </div>
         <div class="sidebar-ad-placeholder">
           广告 2
         </div>
         <div class="sidebar-ad-placeholder">
           广告 3
-        </div> -->
+        </div> 
+      -->
         <div style="padding: 8px; padding-bottom: 0; margin-bottom: -16px;" v-if="isDrivers">
           <ApiSelect />
         </div>
