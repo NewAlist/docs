@@ -5,8 +5,7 @@ import { ref } from 'vue'
 
 const showContactModal = ref(false)
 
-const qrCode = ref('https://oss.hutool.cn/hutool/kefu/kefu.jpg?Content-Disposition=attachment%3B%20filename%3D%22kefu%2Fkefu.jpg%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=admin%2F20250605%2F%2Fs3%2Faws4_request&X-Amz-Date=20250605T051844Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=85ec0e1bcf0b1395104e2180785d770b56a7112f0c61aae0c13957b94f1d290a')
-
+const qrCode = ref('https://xxxx.com/xxx.jpg')
 let data = {
   pricing: [
     {
