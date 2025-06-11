@@ -188,19 +188,19 @@ Do not include the slash \(`/`\) at the end of the address. For example:
 The address of the CDN. Included `$version` values will be dynamically replaced by the version of AList. Existing dist resources are hosted on both npm and GitHub, which can be found at:
 
 - https://www.npmjs.com/package/alist-web
-- https://github.com/alist-org/web-dist
+- https://github.com/NewAlist/web-dist
 
 Thus it is possible to use any npm or GitHub CDN path for this field. For example:
 
 - https://registry.npmmirror.com/alist-web/$version/files/dist/
 - https://cdn.jsdelivr.net/npm/alist-web@$version/dist/
 - https://unpkg.com/alist-web@$version/dist/
-- https://cdn.jsdelivr.net/gh/alist-org/web-dist@$version/dist/
+- https://cdn.jsdelivr.net/gh/NewAlist/web-dist@$version/dist/
 - https://cdn1.tianli0.top/npm/alist-web@$version/dist/
-- https://cdn1.tianli0.top/gh/alist-org/web-dist@$version/dist/
+- https://cdn1.tianli0.top/gh/NewAlist/web-dist@$version/dist/
 - https://npm.elemecdn.com/alist-web@$version/dist/
 - https://jsd.onmicrosoft.cn/npm/alist-web@$version/dist/
-- https://jsd.onmicrosoft.cn/gh/alist-org/web-dist@$version/dist/
+- https://jsd.onmicrosoft.cn/gh/NewAlist/web-dist@$version/dist/
 
 Keep empty to use local dist resources.
 
@@ -241,7 +241,7 @@ The database configuration, which is by default `sqlite3`. Available options are
     "db_file": "data\\data.db",     //Database location, used by sqlite3
     "table_prefix": "x_",           //database table name prefix
     "ssl_mode": "",     //To control the encryption options during the SSL handshake, the parameters can be searched by themselves, or check the answer from ChatGPT below
-    "dsn": ""           // https://github.com/alist-org/alist/pull/6031
+    "dsn": ""           // https://github.com/NewAlist/alist/pull/6031
   },
 ```
 
@@ -362,8 +362,8 @@ Where data is stored when using  **`bleve`** index.
 
 If this item is set, the front -end file of this option is preferred to render, support the use of other front -end files, and the back -end continues to use the original application
 
-- https://github.com/alist-org/alist/issues/5531
-- https://github.com/alist-org/alist/discussions/6110
+- https://github.com/NewAlist/alist/issues/5531
+- https://github.com/NewAlist/alist/discussions/6110
 
 Upload the front -end file (dist) to the `data` folder of the application, and then fill in this way. The disadvantage is that if you update each time, you need to change the file manually
 
