@@ -42,7 +42,7 @@ const showMingdao = false;
 
 const handleAdClick = async () => {
   try {
-    await fetch('https://api.hutool.cn/blade-adv/stats', {
+    await fetch('https://xxxx.com', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
