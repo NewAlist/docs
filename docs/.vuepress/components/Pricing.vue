@@ -21,7 +21,7 @@ let data = {
       ],
       btns: [{
         text: 'Download',
-        link: 'https://github.com/alist-org/alist/releases'
+        link: 'https://github.com/NewAlist/alist/releases'
       }
         // ,{
         //   text: "Sponsor",
@@ -47,7 +47,7 @@ let data = {
       btns: [
         {
           text: 'Download',
-          link: 'https://github.com/alist-org/desktop-release/releases',
+          link: 'https://github.com/NewAlist/desktop-release/releases',
         }
         // ,{
         //   text: 'Buy',
@@ -92,7 +92,7 @@ if (location.pathname.startsWith("/zh/")) {
         ],
         btns: [{
           text: '下载',
-          link: 'https://github.com/alist-org/alist/releases',
+          link: 'https://github.com/NewAlist/alist/releases',
         }
           // , {
           //   text: "赞助",
@@ -118,7 +118,7 @@ if (location.pathname.startsWith("/zh/")) {
         btns: [
           {
             text: '下载',
-            link: 'https://github.com/alist-org/desktop-release/releases',
+            link: 'https://github.com/NewAlist/desktop-release/releases',
           }
           // ,{
           //   text: '购买',
