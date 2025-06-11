@@ -12,7 +12,7 @@ sidebar: false
 - 参与社区讨论
 
 ## 加入我们
-
+<!-- ---
 ### 微信/QQ 群
 
 扫描下方二维码加入我们的微信/QQ 群：
@@ -22,16 +22,16 @@ sidebar: false
   <img src="/img/ss/qq%20group02.pic.jpg" alt="QQ 群二维码" class="qr-img" />
 </div>
 <div class="qr-img-row">
-  <!-- ---
+
   <img src='https://xxxx.com/xxxx.jpg' alt="wechat 群二维码" class="qr-img" />
   <img src='https://xxxx.com/xxxx.jpg' alt="wechat 群二维码" class="qr-img" />
-  --- -->
+
 </div>
 
 ### Telegram
 
 加入我们的 Telegram 群组：[AList Chat](https://t.me/alist_chat)
-
+--- -->
 ### GitHub 讨论区
 
 加入我们的 GitHub 讨论区：[AList Discussions](https://github.com/alist-org/alist/discussions)
