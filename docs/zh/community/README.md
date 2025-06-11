@@ -22,8 +22,10 @@ sidebar: false
   <img src="/img/ss/qq%20group02.pic.jpg" alt="QQ 群二维码" class="qr-img" />
 </div>
 <div class="qr-img-row">
-  <img src='https://oss.hutool.cn/000000-hutool/upload/alist/alist111.jpg' alt="wechat 群二维码" class="qr-img" />
-  <img src='https://oss.hutool.cn/000000-hutool/upload/alist/alist222.jpg' alt="wechat 群二维码" class="qr-img" />
+  <!-- ---
+  <img src='https://xxxx.com/xxxx.jpg' alt="wechat 群二维码" class="qr-img" />
+  <img src='https://xxxx.com/xxxx.jpg' alt="wechat 群二维码" class="qr-img" />
+  --- -->
 </div>
 
 ### Telegram
