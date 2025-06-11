@@ -13,10 +13,10 @@ export const zh = navbar([
     children: [
       {
         text: "Discussion",
-        link: "https://github.com/alist-org/alist/discussions",
+        link: "https://github.com/NewAlist/alist/discussions",
       },
-      { text: "Telegram", link: "https://t.me/alist_chat" },
-      { text: "微信/QQ", link: "zh/community/"  },
+     // { text: "Telegram", link: "https://t.me/alist_chat" },
+     // { text: "微信/QQ", link: "zh/community/"  },
     ],
   },
   {
@@ -24,13 +24,13 @@ export const zh = navbar([
     icon: "iconfont icon-more",
     children: [
       { text: "演示", link: "https://alist.pages.dev/" },
-      { text: "V2", link: "https://alist-doc.nn.ci" },
+      { text: "V2", link: "https://doc.newalist.top" },
       // { text: "桌面版", link: "https://ad.nn.ci/" },
     ],
   },
   {
     text: "Github",
     icon: "iconfont icon-github",
-    link: "https://github.com/alist-org/alist",
+    link: "https://github.com/NewAlist/alist",
   },
 ])
