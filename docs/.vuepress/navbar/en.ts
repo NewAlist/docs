@@ -13,7 +13,7 @@ export const en = navbar([
     children: [
       {
         text: "Discussion",
-        link: "https://github.com/alist-org/alist/discussions",
+        link: "https://github.com/NewAlist/alist/discussions",
       },
       { text: "Telegram", link: "https://t.me/alist_chat" },
       { text: "Wechat/QQ", link: "/community/" }
