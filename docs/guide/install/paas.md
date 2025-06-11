@@ -26,13 +26,13 @@ For specific usage, please refer to the `README.md` in the corresponding reposit
 [https://console.run.claw.cloud/signin](https://console.run.claw.cloud/signin?link=UTMO60WWUZKY)
 
 ### **Koyeb**
-https://github.com/alist-org/alist-koyeb
+https://github.com/NewAlist/alist-koyeb
 
 ### **Render**
-https://github.com/alist-org/alist-render
+https://github.com/NewAlist/alist-render
 
 ### **Heroku**
-https://github.com/alist-org/alist-heroku-postgres
+https://github.com/NewAlist/alist-heroku-postgres
 
 ### **Sealos**
 [![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dalist)

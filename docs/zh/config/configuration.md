@@ -189,19 +189,19 @@ CDN 地址，如果要使用 CDN，可以设置该字段，`$version` 会被替�
 这是动态的。 现有的 dist 资源托管在 npm 和 GitHub 上，它们的位置是：
 
 - https://www.npmjs.com/package/alist-web
-- https://github.com/alist-org/web-dist
+- https://github.com/NewAlist/web-dist
 
 所以你可以使用任何 npm 或 GitHub CDN 作为路径，例如：
 
 - https://registry.npmmirror.com/alist-web/$version/files/dist/
 - https://cdn.jsdelivr.net/npm/alist-web@$version/dist/
 - https://unpkg.com/alist-web@$version/dist/
-- https://cdn.jsdelivr.net/gh/alist-org/web-dist@$version/dist/
+- https://cdn.jsdelivr.net/gh/NewAlist/web-dist@$version/dist/
 - https://cdn1.tianli0.top/npm/alist-web@$version/dist/
-- https://cdn1.tianli0.top/gh/alist-org/web-dist@$version/dist/
+- https://cdn1.tianli0.top/gh/NewAlist/web-dist@$version/dist/
 - https://npm.elemecdn.com/alist-web@$version/dist/
 - https://jsd.onmicrosoft.cn/npm/alist-web@$version/dist/
-- https://jsd.onmicrosoft.cn/gh/alist-org/web-dist@$version/dist/
+- https://jsd.onmicrosoft.cn/gh/NewAlist/web-dist@$version/dist/
 
 您也可以将其设置为空以使用本地 dist。
 
@@ -242,7 +242,7 @@ CDN 地址，如果要使用 CDN，可以设置该字段，`$version` 会被替�
     "db_file": "data\\data.db",     //数据库位置,sqlite3使用的
     "table_prefix": "x_",           //数据库表名前缀
     "ssl_mode": "",     //来控制SSL握手时的加密选项,参数自行搜索，或者查看下方来自ChatGPT的回答
-    "dsn": ""           // https://github.com/alist-org/alist/pull/6031
+    "dsn": ""           // https://github.com/NewAlist/alist/pull/6031
   },
 ```
 
@@ -367,8 +367,8 @@ temp_dir 为 alist 独占的临时文件夹，为避免程序中断产生垃圾�
 
 如果设置此项，优先使用本前端文件进行渲染，支持使用其它前端文件，后端继续使用原版应用
 
-- https://github.com/alist-org/alist/issues/5531
-- https://github.com/alist-org/alist/discussions/6110
+- https://github.com/NewAlist/alist/issues/5531
+- https://github.com/NewAlist/alist/discussions/6110
 
 将前端文件(dist)上传到应用的`data`文件夹下，然后按照下方这样填写，缺点就是如果每次更新都得需要手动更新一次
 

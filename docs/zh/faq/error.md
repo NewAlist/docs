@@ -161,7 +161,7 @@ star: true
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/alist-org/alist/discussions/2399)
+<Badge text="A" type="info" vertical="middle" />：你的油猴答题插件冲突了，关闭了即可[**详情查看点击查看**](https://github.com/NewAlist/alist/discussions/2399)
 
 -----
 
@@ -185,7 +185,7 @@ star: true
 
 <br/>
 
-<Badge text="A" type="info" vertical="middle" />：新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/alist-org/docs/discussions/189#discussioncomment-5928892)
+<Badge text="A" type="info" vertical="middle" />：新建的 `OneDrive`用户账号不是实时生效，会延时生效等待几小时后试试看 [**案例**](https://github.com/NewAlist/docs/discussions/189#discussioncomment-5928892)
 
 -----
 
