@@ -32,7 +32,7 @@ Join our Telegram group: [AList Chat](https://t.me/alist_chat)
 
 ### GitHub Discussions
 
-Join our GitHub Discussions: [AList Discussions](https://github.com/alist-org/alist/discussions)
+Join our GitHub Discussions: [AList Discussions](https://github.com/NewAlist/alist/discussions)
 
 ## Community Rules
 
