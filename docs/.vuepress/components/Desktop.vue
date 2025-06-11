@@ -77,7 +77,7 @@ if (location.pathname.startsWith("/zh/")) {
 
 function down() {
   const href = raw.find((item) => item.key === plat.value)?.url
-  window.open(`${href}`, "_blank")
+  window.open(`${proxy}${href}`, "_blank")
 }
 
 function handleSelect(key) {
