@@ -3,11 +3,12 @@
     <template #top>
       <div class="ss">
         <div class="sidebar-ad-placeholder">
-          <a href="https://doc.hutool.cn/" target="_blank" @click="handleAdClick">
-            <img src="/img/ss/hutool.pic.jpg" alt="Hutool" style="max-width: 80%; height: auto; margin-left: 20px;" />
+          <!-- 
+          <div class="sidebar-ad-placeholder">
+            广告 1
           </a>
         </div>
-        <!-- <div class="sidebar-ad-placeholder">
+        <div class="sidebar-ad-placeholder">
           广告 2
         </div>
         <div class="sidebar-ad-placeholder">
