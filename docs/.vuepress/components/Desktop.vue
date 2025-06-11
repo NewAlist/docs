@@ -85,7 +85,7 @@ function handleSelect(key) {
 }
 
 function openWebsite() {
-  window.open("https://desktop.alistgo.com/zh", "_blank")
+  window.open("https://ad.nn.ci/", "_blank")
 }
 </script>
 
