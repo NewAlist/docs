@@ -34,7 +34,7 @@ sidebar: false
 --- -->
 ### GitHub 讨论区
 
-加入我们的 GitHub 讨论区：[AList Discussions](https://github.com/alist-org/alist/discussions)
+加入我们的 GitHub 讨论区：[AList Discussions](https://github.com/NewAlist/alist/discussions)
 
 ## 社区规则
 
