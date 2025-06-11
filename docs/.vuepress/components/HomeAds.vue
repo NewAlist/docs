@@ -15,7 +15,7 @@ const jumpUrl = computed(() =>
 
 console.log('当前图片:', backgroundImage.value)
 </script>
-
+<!--
 <template>
   <div class="ads-container">
     <div class="vidhub-new-bgc">
@@ -25,7 +25,7 @@ console.log('当前图片:', backgroundImage.value)
     </div>
   </div>
 </template>
-
+-->
 <style scoped lang="scss">
 .new_site {
   display: flex;
