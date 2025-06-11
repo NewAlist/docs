@@ -28,7 +28,7 @@ star: true
 - 参与社区讨论
 
 ## 加入我们
-
+<!-- ---
 ### 微信/QQ 群
 
 扫描下方二维码加入我们的微信/QQ 群：
@@ -45,10 +45,10 @@ star: true
 ## Telegram 群组
 
 加入我们的 Telegram 群组：[AList Chat](https://t.me/alist_chat)
-
+--- -->
 ## Discussions​
 
-加入我们的 GitHub 讨论区：[AList Discussions](https://github.com/alist-org/alist/discussions)
+加入我们的 GitHub 讨论区：[AList Discussions](https://github.com/NewAlist/alist/discussions)
 
 ## 社区规则
 
