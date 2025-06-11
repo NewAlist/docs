@@ -15,8 +15,8 @@ export const en = navbar([
         text: "Discussion",
         link: "https://github.com/NewAlist/alist/discussions",
       },
-      { text: "Telegram", link: "https://t.me/alist_chat" },
-      { text: "Wechat/QQ", link: "/community/" }
+     //  { text: "Telegram", link: "https://t.me/alist_chat" },
+     //  { text: "Wechat/QQ", link: "/community/" }
     ],
   },
   {
@@ -24,13 +24,13 @@ export const en = navbar([
     icon: "iconfont icon-more",
     children: [
       { text: "Demo", link: "https://alist.pages.dev/" },
-      { text: "V2", link: "https://alist-doc.nn.ci" },
+      { text: "V2", link: "https://doc.newalist.top" },
       // { text: "Desktop", link: "https://ad.nn.ci/" },
     ],
   },
   {
     text: "Github",
     icon: "iconfont icon-github",
-    link: "https://github.com/alist-org/alist",
+    link: "https://github.com/NewAlist/alist",
   },
 ]);
