@@ -69,7 +69,7 @@ let data = {
       btns: [
         {
           text: 'Contact',
-          link: 'mailto:i@nn.ci'
+          link: 'mailto:i@newalist.top'
         }
       ]
     }
@@ -139,7 +139,7 @@ if (location.pathname.startsWith("/zh/")) {
         ],
         btns: [{
           text: '联系',
-          link: 'mailto:i@nn.ci',
+          link: 'mailto:i@newalist.top',
         }]
       }
     ],
@@ -147,7 +147,7 @@ if (location.pathname.startsWith("/zh/")) {
 }
 
 function openLink(link: string) {
-  if (link === 'mailto:i@nn.ci') {
+  if (link === 'mailto:i@newalist.top') {
     showContactModal.value = true
   } else {
     window.open(link, "_blank");
@@ -185,7 +185,7 @@ function openLink(link: string) {
           :src="qrCode"
           alt="联系我们" style="width: 300px; height: 350px;">
       </div>
-      <!-- <p>邮箱：i@nn.ci</p> -->
+      <!-- <p>邮箱：i@newalist.top</p> -->
     </template>
     <template #action>
       <NButton @click="showContactModal = false">关闭</NButton>
