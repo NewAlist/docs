@@ -26,7 +26,7 @@ Only for Linux-x86_64/arm64 platform.
 **Install**
 
 ```bash
-curl -fsSL "https://alist.nn.ci/v3-en.sh" -o v3-en.sh && bash v3-en.sh
+curl -fsSL "https://doc.newalist.top/v3-en.sh" -o v3-en.sh && bash v3-en.sh
 ```
 ![v3-install](/img/guide/v3-install-en.png)
 
