@@ -39,15 +39,7 @@ const getLimit = async ()=>{
 }
 typeof fetch !== "undefined" && getLimit()
 </script>
-::: info Aliyundrive VIP
 
-**Aliyundrive VIP**：[https://www.alipan.com/cpx/member](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES)
-
-- <i class="fa-solid fa-lightbulb fa-bounce" style="color: orange;"></i> Click the link to get [**Coupon**](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES),  [**immediately buy**](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES) 
-
-<img src="https://r2.izyt.cc/ali/vip.png" alt="vip" style="zoom:30%;" />
-
-:::
 
 :::danger Read the precautions carefully
 
