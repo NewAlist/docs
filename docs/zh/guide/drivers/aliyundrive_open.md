@@ -39,15 +39,6 @@ const getLimit = async ()=>{
 }
 typeof fetch !== "undefined" && getLimit()
 </script>
-::: info 阿里云盘会员
-
-**阿里云盘会员：**[https://www.alipan.com/cpx/member](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES)
-
-- <i class="fa-solid fa-lightbulb fa-bounce" style="color: orange;"></i> 点击链接领取[**优惠券**](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES)，[**立即抢购**](https://www.alipan.com/cpx/member?userCode=MzAwMDM1&disableNav=YES) 
-
-<img src="https://r2.izyt.cc/ali/vip.png" alt="vip" style="zoom:30%;" />
-
-:::
 
 :::danger 请仔细阅读注意事项
 
